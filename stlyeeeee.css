@@ -1,0 +1,55 @@
+body {
+	background:skyblue;
+	font-family:sans-serif;
+	width: 100%;
+	margin: 0 auto;
+}
+.header {
+	width:90%;
+	margin:auto;
+	height: 200px;
+	line-height: 200px;
+	background: url(jatim.jpg);
+	color: white;
+	font-family: serif;
+	font-size: 50px;
+	background-size: cover;
+	position: relative;
+}
+.menu {
+	background: skyblue;
+	height: 50px;
+	line-height: 50px;
+	width: 90%;
+	margin: 10 px auto;
+	padding: 0 auto;
+}
+.menu ul li{
+	float: left;
+	width: 90px;
+	font-size: 18px;
+	text-align: center;
+	display: block;
+}
+.menu li a{
+	text-decoration: none;
+}
+.content{
+	width:90%;
+	margin: auto;
+	padding:0.1px;
+	height: 450px;
+	color: black;
+}
+.border{
+	border: 2px solid yellow;
+	margin-top: 1 pc;
+	padding-bottom: 1pc;
+	padding-left: 2pc;
+	padding-right: 2pc;
+
+}
+.border img{
+	padding: 13px;
+}
+
